@@ -58,3 +58,19 @@
 .button--rounded:hover{
     background-color: #b66f4f;
 }
+.garmentList, .fabricList{
+  padding: 0;
+  margin: 2rem;
+}
+.Contact-link{
+  list-style: none;
+}
+.Contact-link a{
+  position: relative;
+  text-decoration: none;
+  color: #b77d64;
+  display: inline-block;
+  font-family: "LL Akkurat Web",sans-serif;
+  font-weight: 300;
+  letter-spacing: .4px;
+}
